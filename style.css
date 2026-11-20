@@ -1,0 +1,49 @@
+@font-face {
+  font-family: Jersey10;
+  src: url(Jersey10-Regular.ttf);
+}
+img#gitaur{
+  position: absolute;
+  top: 70%;
+  left: 22%;
+  width: 10%;
+}
+img#flute{
+  position: absolute;
+  top: 70%;
+  left: 35%;
+  width: 10%;
+}
+img#glock{
+  position: absolute;
+  top: 70%;
+  right: 35%;
+  width: 10%;
+}
+img#mic{
+  position: absolute;
+  top: 70%;
+  right: 22%;
+  width: 10%;
+}
+#score {
+  color: rgb(0, 0, 0);
+  font-family: "Jersey10";
+  font-size: xx-large;
+  font-style: normal;
+  text-shadow: 0px 6px rgba(0, 0, 0, 0.368);
+}
+#title {
+  color: rgb(0, 0, 0);
+  font-family: "Jersey10";
+  font-size: xx-large;
+  font-style: normal;
+  text-shadow: 0px 6px rgba(0, 0, 0, 0.368);
+}
+#progressBar{
+  background-color: rgb(167, 167, 167);
+  height: 50px;
+  width: 50%;
+  position: relative;
+  transform: translate(3,3);
+}
